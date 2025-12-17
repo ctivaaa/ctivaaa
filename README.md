@@ -46,7 +46,9 @@ Freelance work for Colombian companies and individual projects with the intentio
 
 |Nº|Project|Stack|Code|Page|
 |----|----|----|----|----|
-|01|Folajes Monteverde|:icecream: HTML, CSS|[View Code](https://github.com/ctivaaa/MONTEVERDE)|[View page](https://foliagesmonteverde.com/)|
+|01|Ediciones Dialectica|:icecream: HTML, CSS|[View Code](https://github.com/ctivaaa/MONTEVERDE)|[View page](https://foliagesmonteverde.com/)|
+|02|Follajes Monteverde|:icecream: HTML, CSS|[View Code](https://github.com/ctivaaa/MONTEVERDE)|[View page](https://foliagesmonteverde.com/)|
+|03|Asuarca|:icecream: HTML, CSS, ANGULAR, TYPESCRIPT, |[View Code](https://github.com/ctivaaa/asuarca)|[View page](https://asuarca.com/)|
 
 
 [Contact me](https://www.linkedin.com/in/juan-cuitiva/).  
