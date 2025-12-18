@@ -42,7 +42,7 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
 ###  projects
 #### :muscle: For learning and for passion!
 Freelance work for Colombian companies and individual projects with the intention of training and challenging myself
-´´Practice doesn't make perfect, practice makes better.´´
+´´If you can imagine it you can code it´´
 
 |Nº|Project|Stack|Code|Page|
 |----|----|----|----|----|
