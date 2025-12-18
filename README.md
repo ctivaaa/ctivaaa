@@ -1,5 +1,5 @@
 ### Hello!, my name is Juan David Cuitiva Vivas
-#### I´m a student of software engineering and systems engineering
+#### I´m a software and systems engineering student
 ##### SKILLS
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 
