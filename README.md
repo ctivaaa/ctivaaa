@@ -39,7 +39,7 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
  • 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/juan-cuitiva/) Let's connect!
 - - -
-### :globe_with_meridians: Online projects
+###  projects
 #### :muscle: For learning and for passion!
 Freelance work for Colombian companies and individual projects with the intention of training and challenging myself
 ´´Practice doesn't make perfect, practice makes better.´´
